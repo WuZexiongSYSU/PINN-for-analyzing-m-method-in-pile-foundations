@@ -3,7 +3,7 @@
 This repository contains code for a Physics-Informed Neural Network (PINN) implementation of the m-method for pile analysis, based on the work by Zexiong Wu and Xueyou Li. The code is provided in Jupyter notebooks for training and loading the model.
 
 - **Authors**: Zexiong Wu (wuzx58@mail2.sysu.edu.cn), Xueyou Li (lixueyou@mail.sysu.edu.cn)
-- **Date**: 2024-06-09
+- **Date**: 2025-09
 - **Description**: Implementation of PINN for the m-method in pile engineering.
 - **Related Article**: [Link to the article](https://link.cnki.net/urlid/32.1124.TU.20250926.1432.002)
 
